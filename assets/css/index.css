@@ -89,6 +89,7 @@ body {
     border-radius: 5px;
     flex: 1 1 200px;
     margin: 15px 10px;
+    cursor: pointer;
 }
 
 .hour-format-main {
@@ -172,15 +173,15 @@ ul li {
 }
 
 .inner-time-wrap input {
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     cursor: pointer;
 }
 
 .check-12 {
     position: absolute;
-    top: 38%;
-    left: -13px;
+    top: 36%;
+    left: -15px;
 }
 
 .check-24 {
